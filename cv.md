@@ -1,3 +1,5 @@
+![image of me](https://github.com/Bondidos/rsschool-cv/blob/gh-pages/me.png)
+
 Vladimir Khadaronak
 ## Contact Info
 - email: gglbond@gmail.com
